@@ -1,0 +1,11 @@
+{
+  "appId": "br.dev.painel.deliveryltda.amado",
+  "versionCode": 1783894165,
+  "versionName": "1.1.2",
+  "minimumSupportedVersionCode": 0,
+  "mandatory": true,
+  "publishedAt": "2026-07-12T18:11:53-04:00",
+  "downloadUrl": "https://github.com/cezar-fournier/delivery-app-distribuicao/releases/download/amado-v1.1.2/app-amado-release.apk",
+  "sha256": "853f4897e7e9dbcb5da28c352c9423fc95e0b1b99438233f801978c03295a1c4",
+  "releaseNotes": ["Versao 1.1.2."]
+}
