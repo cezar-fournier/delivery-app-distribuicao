@@ -1,0 +1,11 @@
+{
+  "appId": "br.dev.painel.deliverydoamado.entregador",
+  "versionCode": 1783894693,
+  "versionName": "1.1.2",
+  "minimumSupportedVersionCode": 0,
+  "mandatory": false,
+  "publishedAt": "2026-07-12T18:19:58-04:00",
+  "downloadUrl": "https://github.com/cezar-fournier/delivery-app-distribuicao/releases/download/entregador-v1.1.2/delivery-ltda-entregador-release.apk",
+  "sha256": "d177302270e76039226d651a75bec4010fd3fdb8c8cde0983a9c733b0d6abaff",
+  "releaseNotes": ["Versao 1.1.2."]
+}
