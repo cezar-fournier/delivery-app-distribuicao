@@ -1,0 +1,11 @@
+{
+  "appId": "br.dev.painel.deliveryltda.tupinamba",
+  "versionCode": 1783894533,
+  "versionName": "1.1.2",
+  "minimumSupportedVersionCode": 0,
+  "mandatory": true,
+  "publishedAt": "2026-07-12T18:18:07-04:00",
+  "downloadUrl": "https://github.com/cezar-fournier/delivery-app-distribuicao/releases/download/tupinamba-v1.1.2/app-tupinamba-release.apk",
+  "sha256": "509d9f68321df068bfc0e744e04f3f26ede331dbfb3fbea25e49b30373cc570a",
+  "releaseNotes": ["Versao 1.1.2."]
+}
